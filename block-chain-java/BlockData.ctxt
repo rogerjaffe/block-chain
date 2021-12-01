@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BlockData
+comment0.text=\n\ Interface\ BlockData\ object.\ \ \n\n\ @author\ (Roger\ Jaffe)\n\ @version\ (2021-11-30)\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

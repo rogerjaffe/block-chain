@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BlockDataTest
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlockDataTest\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=from\ to\ amount
+comment1.target=BlockDataTest(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
